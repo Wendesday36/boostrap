@@ -1,10 +1,8 @@
 body{
     background-image: url(hatter.jpg);
 }
-main{
-    background-color: white;
-}
 .container{
     margin-left: auto !important;
     margin-right: auto !important;
+    background-color: white;
 }
