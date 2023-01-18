@@ -1,0 +1,10 @@
+body{
+    background-image: url(hatter.jpg);
+}
+main{
+    background-color: aliceblue;
+}
+.row img{
+    border: 1px black solid;
+    
+}
